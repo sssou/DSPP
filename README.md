@@ -1,0 +1,1 @@
+EDA (Exploratory Data analysis) and testing on Porto Seguro's Safe Driver Prediction dataset on whether incresadeing Vehicle realted features would improve claim prediction without a disproportional loss in precision cost across logistic regression and LightGBM
